@@ -75,7 +75,7 @@ e.g. If you are using atom:<br>
 `atom react-native-skeleton`
 
 
-## Setup ES6+Babel+JSX Linting with Atom (Optional)
+## Setup ES6 + Babel + JSX Linting with Atom (Optional)
 
 This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a starting point.
 
