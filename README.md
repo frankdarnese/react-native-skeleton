@@ -12,7 +12,7 @@ order for this repo to run correctly.
 ## Prerequisites
 
 Before you clone this repository, please ensure the following have been installed
-(first-time setup only). Please also ensure that you have node/NPM installed.
+<b>(first-time setup only)</b>. Please also ensure that you have node/NPM installed.
 We are also using NPM to manage our project dependencies.
 
 ## Environment Setup
