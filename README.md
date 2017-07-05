@@ -48,6 +48,10 @@ Used to generate new React Native projects
 Clone the repo with the git clone command.<br>
 `git clone git@github.com:FDarnese/react-native-skeleton.git`<br>
 
+## Change repo name amd cd into it
+
+Change the repository name according to your new project
+
 cd into the project folder<br>
 `cd react-native-skeleton`
 
