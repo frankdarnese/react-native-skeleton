@@ -10,25 +10,25 @@ We are also using NPM to manage our project dependencies.
 
 ## Setup the environment
 
-###### 1. Install XCode<br>
+##### 1. Install XCode<br>
 Download it from Apple Store
 
-###### 2. Install HomeBrew<br>
+##### 2. Install HomeBrew<br>
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`<br>
 Mac OSX dependencies management program used here to install node
 
-###### 3. Install Node/NPM<br>
+##### 3. Install Node/NPM<br>
 `brew install node`  
 or  `brew upgrade node` (if already installed)<br>
 Node runs Javascript outside of the browser.<br>
 NPM is used for installing dependencies.<br>
 Node and NPM come together, they are installed at the same time.
 
-###### 4. Install Watchman<br>
+##### 4. Install Watchman<br>
 `brew install watchman`<br>
 Watch filers on the hard drive and waits for them to change
 
-###### 5. Install React Native CLI<br>
+##### 5. Install React Native CLI<br>
 `npm install -g react-native-cli`<br>
 Used to generate new React Native projects
 
