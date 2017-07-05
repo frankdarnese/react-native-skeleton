@@ -1,7 +1,6 @@
 /**
  * React Native App Skeleton
  * https://github.com/FDarnese/react-native-skeleton
- * @flow
  */
 
 import React, { Component } from 'react';
