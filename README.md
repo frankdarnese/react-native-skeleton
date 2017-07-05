@@ -66,7 +66,7 @@ Start the app from the Xcode IDE
 e.g. If you are using atom:<br>
 `atom react-native-skeleton`
 
-## Optional Setup ES6+Babel+JSX Linting with Atom
+## Setup ES6+Babel+JSX Linting with Atom (Optional)
 
 This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a starting point.
 
