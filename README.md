@@ -74,6 +74,14 @@ Start the app from the Xcode IDE
 e.g. If you are using atom:<br>
 `atom react-native-skeleton`
 
+## Initializing GIT
+cd into the project folder and run<br>
+```TXT
+  git init
+  git commit -m "Initial commit"
+  git remote add origin git@github.com:YOUR-REPOSITORY-NAME.git
+  git push -u origin master
+```
 
 ## Setup ES6 + Babel + JSX Linting with Atom (Optional)
 
