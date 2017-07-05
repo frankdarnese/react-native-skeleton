@@ -50,9 +50,9 @@ Clone the repo with the git clone command.<br>
 
 ## Update folder name && cd into it
 
-Change the repository name according to your new project
+- Change the repository name according to your new project
 
-cd into the project folder<br>
+- cd into the project folder<br>
 `cd react-native-skeleton`
 
 ## Install NPM
