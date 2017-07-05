@@ -74,7 +74,7 @@ Start the app from the Xcode IDE
 e.g. If you are using atom:<br>
 `atom react-native-skeleton`
 
-## Initializing GIT
+## Initializing GIT + GITHUB Setup
 cd into the project folder and run<br>
 ```TXT
   git init
