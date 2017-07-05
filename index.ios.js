@@ -16,7 +16,7 @@ export default class react_native_skeleton extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to React Native Skeleton!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
