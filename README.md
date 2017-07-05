@@ -57,11 +57,11 @@ Clone the repo with the git clone command.<br>
 
 ## Install NPM
 
-Run `npm install`
+Run `npm install` within the project folder
 
 ## Build and run the project
 
-To build and run the project, run the following command:
+To build and launch the project, run the following command:
 - Option 1.<br>
 `react-native run-ios`<br>
 This should launch the Simulator, and you should see the boilerplate screen.
