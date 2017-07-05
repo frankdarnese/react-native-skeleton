@@ -15,7 +15,7 @@ Before you clone this repository, please ensure the following 5 packages have be
 <b>(first-time setup only)</b>. Please also ensure that you have node/NPM installed.
 We are also using NPM to manage our project dependencies.
 
-## Environment Setup
+### Environment Setup
 
 #### 1. Install XCode
 
