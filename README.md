@@ -2,6 +2,13 @@
 
 This repository contains a React Native App skeleton powered by React Native.
 
+This repo has been built and tested using the following software and associated
+versions, please ensure you meet the minimum version shown below for each in
+order for this repo to run correctly.
+
+![react native: v0.45.1+](https://img.shields.io/badge/react-native: v0.45.1%2B-brightgreen.svg) ![reactnative: 0.45.1+](https://img.shields.io/badge/reactnative-cli: v2.0.1%2B-brightgreen.svg) ![node v7.0.0+](https://img.shields.io/badge/node-v8.1.3%2B-brightgreen.svg) ![npm v7.0.0+](https://img.shields.io/badge/npm-v5.0.3%2B-brightgreen.svg) ![homebrew v0.24.5+](https://img.shields.io/badge/homebrew-v1.2.4%2B-brightgreen.svg) ![watchman v0.24.5+](https://img.shields.io/badge/watchman-v4.7.0%2B-brightgreen.svg)
+
+
 ## Prerequisites
 
 Before you clone this repository, please ensure the following have been installed
