@@ -1,11 +1,11 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * React Native App Skeleton
+ * https://github.com/FDarnese/react-native-skeleton
  * @flow
  */
 
 import React, { Component } from 'react';
-
+import {
   AppRegistry,
   StyleSheet,
   Text,

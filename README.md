@@ -66,12 +66,26 @@ Start the app from the Xcode IDE
 e.g. If you are using atom:<br>
 `atom react-native-skeleton`
 
-## Optional ESLint Setup
+## Optional Setup ES6+Babel+JSX Linting with Atom
+
+This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a starting point.
 
 1. In Atom install <b>lint & es-lint</b> packages
 
-2. Install <b>Rallycoding</b> which is a file that contains a set of rules we are going to use during our project
-`npm install --save dev eslint-config-rallycoding`
+2. Install <b>eslint-config-airbnb babel-eslint eslint-plugin-react</b> which are files that contains a set of rules we are going to use during our project
+
+From your project root run:<br>
+`npm install --save-dev eslint-config-airbnb babel-eslint eslint-plugin-react`
+
 
 3. Make sure ESLint knows to use the rule set-up/bundle we have just installed via NPM
 Inside of the project directory create a new file called <b>.eslintrc</b>
+
+4. Add the following code to the .eslintrc file
+```TXT
+  {
+    "extends": "eslint-config-airbnb"
+  }
+```
+
+Note: See <a href="https://github.com/airbnb/javascript" target="blank">Airbnb's Javascript styleguide</a> and the <a href="http://eslint.org/docs/user-guide/configuring#extending-configuration-files" target="blank">ESlint config docs for more information</a>.
