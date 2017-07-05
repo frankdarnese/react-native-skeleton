@@ -51,6 +51,10 @@ Clone the repo with the git clone command.<br>
 cd into the project folder<br>
 `cd react-native-skeleton`
 
+## Install NPM
+
+Run `npm install`
+
 ## Build and run the project
 
 To build and run the project, run the following command:
