@@ -51,7 +51,7 @@ Clone the repo with the git clone command.<br>
 cd into the project folder<br>
 `cd react-native-skeleton`
 
-## Build and run
+## Build and run the project
 
 To build and run the project, run the following command:
 - Option 1.<br>
@@ -61,7 +61,7 @@ This should launch the Simulator, and you should see the boilerplate screen.
 - Option 2.<br>
 Start the app from the Xcode IDE
 
-## Open the repo in your favourite editor
+## Open the project folder in your favorite editor
 
 e.g. If you are using atom:<br>
 `atom react-native-skeleton`
