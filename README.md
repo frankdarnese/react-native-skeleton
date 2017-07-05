@@ -11,7 +11,7 @@ order for this repo to run correctly.
 
 ## Prerequisites
 
-Before you clone this repository, please ensure the following have been installed
+Before you clone this repository, please ensure the following 5 packages have been installed
 <b>(first-time setup only)</b>. Please also ensure that you have node/NPM installed.
 We are also using NPM to manage our project dependencies.
 
