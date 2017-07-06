@@ -25,7 +25,7 @@ Download it from Apple Store
 
 ```TXT
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```<br>
+```
 Mac OSX dependencies management program used here to install node
 
 #### 3. Install Node/NPM
