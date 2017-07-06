@@ -67,7 +67,7 @@ CD into your 'projects' folder and clone the repo with the git clone command.
 
 ```TXT
 git clone git@github.com:FDarnese/react-native-skeleton.git
-``
+```
 
 ## Update folder name && cd into it
 
@@ -92,8 +92,7 @@ To build and launch the project, run the following command:
 react-native run-ios
 ```
 
-This should launch the Simulator and you should see the boilerplate screen.<br>
-<b>Note</b>: This may take a few minutes before launching the app.
+<b>Note</b>: This may take a few minutes before building the app. Once done, this should launch the Simulator and you should see the boilerplate welcome screen.<br>
 
 - Option 2.<br>
 
