@@ -8,13 +8,16 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  Image
 } from 'react-native';
 
 export default class react_native_skeleton extends Component {
   render() {
     return (
       <View style={styles.container}>
+        <Image source={require('./app/assets/images/react-native-logo.png')}
+        style={{width: 200, height: 200}} />
         <Text style={styles.welcome}>
           Welcome to React Native Skeleton!
         </Text>
@@ -35,7 +38,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'lightblue',
+    backgroundColor: '#61dafb',
   },
   welcome: {
     fontSize: 20,
