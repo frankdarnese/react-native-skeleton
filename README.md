@@ -71,11 +71,6 @@ This should launch the Simulator, and you should see the boilerplate screen.
 - Option 2.<br>
 Start the app from the Xcode IDE
 
-## Open the project folder in your favorite editor
-
-e.g. If you are using atom:<br>
-`atom react-native-skeleton`
-
 ## Initializing GIT + GITHUB Setup
 cd into the project folder and run<br>
 ```TXT
@@ -84,6 +79,11 @@ cd into the project folder and run<br>
   git remote add origin git@github.com:YOUR-REPOSITORY-NAME.git
   git push -u origin master
 ```
+
+## Open the project folder in your favorite editor
+
+e.g. If you are using atom:<br>
+`atom react-native-skeleton`
 
 ## Setup ES6 + Babel + JSX Linting with Atom (Optional)
 
