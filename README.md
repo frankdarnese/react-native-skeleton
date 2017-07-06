@@ -47,8 +47,9 @@ Used to generate new React Native projects
 
 ## Clone the repository
 
-Clone the repo with the git clone command.<br>
-`git clone git@github.com:FDarnese/react-native-skeleton.git`<br>
+Clone the repo with the git clone command.
+
+`git clone git@github.com:FDarnese/react-native-skeleton.git`
 
 ## Update folder name && cd into it
 
@@ -94,7 +95,8 @@ This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a s
 
 2. Install <b>eslint-config-airbnb babel-eslint eslint-plugin-react</b> which are files that contains a set of rules we are going to use during our project
 
-From your project root run:<br>
+From your project root run:
+
 `npm install --save-dev eslint-config-airbnb babel-eslint eslint-plugin-react`
 
 
