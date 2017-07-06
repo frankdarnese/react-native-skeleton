@@ -52,10 +52,7 @@ Clone the repo with the git clone command.<br>
 
 - Change the repository name according to your new project. Linux and Unix users
 can rename their files and directories by using the <a href="https://www.computerhope.com/unix/umv.htm">mv command</a>.<br>
-`mv react_native_skeleton your_new_project_name`
-
-- cd into the project folder<br>
-`cd react-native-skeleton`
+`mv react_native_skeleton your_new_project_name && cd react-native-skeleton`
 
 ## Install NPM
 
