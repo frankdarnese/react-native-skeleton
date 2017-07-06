@@ -33,7 +33,8 @@ Mac OSX dependencies management program used here to install node
 ```TXT
 brew install node
 ```  
-or if already installed
+or if it's already installed
+
 ```TXT
 brew upgrade node
 ```
@@ -51,6 +52,7 @@ brew install watchman
 Watch filers on the hard drive and waits for them to change
 
 #### 5. Install React Native CLI<br>
+
 ```TXT
 npm install -g react-native-cli
 ```
@@ -83,18 +85,24 @@ Run `npm install` within the project folder
 ## Build and run the project
 
 To build and launch the project, run the following command:
+
 - Option 1.<br>
+
 ```TXT
 react-native run-ios
 ```
+
 This should launch the Simulator and you should see the boilerplate screen.<br>
 <b>Note</b>: This may take a few minutes before launching the app.
 
 - Option 2.<br>
-Start the app from the Xcode IDE
+
+Start the app from the <a href="https://developer.apple.com/xcode/">Xcode IDE</a>
 
 ## Initializing GIT + GITHUB Setup
-cd into the project folder and run<br>
+
+cd into the project folder and run
+
 ```TXT
   git init
   git commit -m "Initial commit"
