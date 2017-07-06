@@ -47,7 +47,7 @@ Used to generate new React Native projects
 
 ## Clone the repository
 
-Clone the repo with the git clone command.
+CD into your 'projects' folder and clone the repo with the git clone command.
 
 `git clone git@github.com:FDarnese/react-native-skeleton.git`
 
