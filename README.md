@@ -68,6 +68,7 @@ To build and launch the project, run the following command:
 - Option 1.<br>
 `react-native run-ios`<br>
 This should launch the Simulator, and you should see the boilerplate screen.
+<b>Note</b>: This may take a few minutes before launching the app.
 
 - Option 2.<br>
 Start the app from the Xcode IDE
