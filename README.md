@@ -98,7 +98,7 @@ react-native run-ios
 
 Start the app from the <a href="https://developer.apple.com/xcode/">Xcode IDE</a>
 
-## Initializing GIT + GITHUB Setup
+## Initializing GIT + GITHUB remote setup
 
 cd into the project folder and run
 
