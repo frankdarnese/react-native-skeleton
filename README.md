@@ -82,7 +82,8 @@ cd into the project folder and run<br>
 
 ## Open the project folder in your favorite editor
 
-e.g. If you are using atom:<br>
+e.g. If you are using atom:
+
 `atom react-native-skeleton`
 
 ## Setup ES6 + Babel + JSX Linting with Atom (Optional)
