@@ -33,7 +33,11 @@ Mac OSX dependencies management program used here to install node
 ```TXT
 brew install node
 ```  
-or  `brew upgrade node` (if already installed)<br>
+or if already installed
+```TXT
+brew upgrade node
+```
+
 Node runs Javascript outside of the browser.<br>
 NPM is used for installing dependencies.<br>
 Node and NPM come together, they are installed at the same time.
@@ -42,13 +46,15 @@ Node and NPM come together, they are installed at the same time.
 
 ```TXT
 brew install watchman
-```<br>
+```
+
 Watch filers on the hard drive and waits for them to change
 
 #### 5. Install React Native CLI<br>
 ```TXT
 npm install -g react-native-cli
-```<br>
+```
+
 Used to generate new React Native projects
 
 # Let's get started
@@ -68,7 +74,7 @@ can rename their files and directories by using the <a href="https://www.compute
 
 ```TXT
 mv react-native-skeleton your_new_project_name && cd your_new_project_name
-``
+```
 
 ## Install NPM
 
@@ -80,7 +86,7 @@ To build and launch the project, run the following command:
 - Option 1.<br>
 ```TXT
 react-native run-ios
-```<br>
+```
 This should launch the Simulator and you should see the boilerplate screen.<br>
 <b>Note</b>: This may take a few minutes before launching the app.
 
