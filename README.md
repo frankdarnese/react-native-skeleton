@@ -112,3 +112,12 @@ Inside of the project directory create a new file called <b>.eslintrc</b>
 ```
 
 <b>Note:</b> See <a href="https://github.com/airbnb/javascript" target="blank">Airbnb's Javascript styleguide</a> and the <a href="http://eslint.org/docs/user-guide/configuring#extending-configuration-files" target="blank">ESlint config docs for more information</a>.
+
+## Testing
+
+- To test the project inside the Simulator you can open the inspector mode from within the Simulator menu (CMD + D to show the menu).
+
+- For web testing/debugging you can go to : `http://localhost:8081/debugger-ui` and open the web inspector.
+
+- You may also install the <a href="https://github.com/facebook/react-devtools/tree/master/packages/react-devtools">standalone version of React Developer Tools</a> to inspect the React component hierarchy, their props, and state.<br>
+When react-devtools is running, Inspector will enter a special collapsed mode, and instead use the DevTools as primary UI. In this mode, clicking on something in the simulator will bring up the relevant components in the DevTools. Please check the <a href="https://github.com/facebook/react-devtools/tree/master/packages/react-devtools">React Developer Tools</a> on GITHUB for more info.
