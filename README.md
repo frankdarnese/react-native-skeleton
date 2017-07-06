@@ -142,7 +142,7 @@ Inside of the project directory create a new file called <b>.eslintrc</b>
   }
 ```
 
-<b>Note:</b> See <a href="https://github.com/airbnb/javascript" target="blank">Airbnb's Javascript styleguide</a> and the <a href="http://eslint.org/docs/user-guide/configuring#extending-configuration-files" target="blank">ESlint config docs for more information</a>.
+Please check <a href="https://github.com/airbnb/javascript" target="blank">Airbnb's Javascript styleguide</a> and the <a href="http://eslint.org/docs/user-guide/configuring#extending-configuration-files" target="blank">ESlint config docs</a> for more information.
 
 ## Testing
 
