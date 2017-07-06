@@ -43,6 +43,8 @@ Watch filers on the hard drive and waits for them to change
 `npm install -g react-native-cli`<br>
 Used to generate new React Native projects
 
+# Let's get started
+
 ## Clone the repository
 
 Clone the repo with the git clone command.<br>
