@@ -23,12 +23,16 @@ Download it from Apple Store
 
 #### 2. Install HomeBrew
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`<br>
+```TXT
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```<br>
 Mac OSX dependencies management program used here to install node
 
 #### 3. Install Node/NPM
 
-`brew install node`  
+```TXT
+brew install node
+```  
 or  `brew upgrade node` (if already installed)<br>
 Node runs Javascript outside of the browser.<br>
 NPM is used for installing dependencies.<br>
@@ -36,11 +40,15 @@ Node and NPM come together, they are installed at the same time.
 
 #### 4. Install Watchman
 
-`brew install watchman`<br>
+```TXT
+brew install watchman
+```<br>
 Watch filers on the hard drive and waits for them to change
 
 #### 5. Install React Native CLI<br>
-`npm install -g react-native-cli`<br>
+```TXT
+npm install -g react-native-cli
+```<br>
 Used to generate new React Native projects
 
 # Let's get started
@@ -49,14 +57,18 @@ Used to generate new React Native projects
 
 CD into your 'projects' folder and clone the repo with the git clone command.
 
-`git clone git@github.com:FDarnese/react-native-skeleton.git`
+```TXT
+git clone git@github.com:FDarnese/react-native-skeleton.git
+``
 
 ## Update folder name && cd into it
 
 Change the repository name according to your new project. Linux and Unix users
 can rename their files and directories by using the <a href="https://www.computerhope.com/unix/umv.htm">mv command</a>.<br>
 
-`mv react-native-skeleton your_new_project_name && cd your_new_project_name`
+```TXT
+mv react-native-skeleton your_new_project_name && cd your_new_project_name
+``
 
 ## Install NPM
 
@@ -66,7 +78,9 @@ Run `npm install` within the project folder
 
 To build and launch the project, run the following command:
 - Option 1.<br>
-`react-native run-ios`<br>
+```TXT
+react-native run-ios
+```<br>
 This should launch the Simulator and you should see the boilerplate screen.<br>
 <b>Note</b>: This may take a few minutes before launching the app.
 
@@ -86,7 +100,9 @@ cd into the project folder and run<br>
 
 e.g. If you are using atom:
 
-`atom react-native-skeleton`
+```TXT
+  atom react-native-skeleton
+```
 
 ## Setup ES6 + Babel + JSX Linting with Atom (Optional)
 
@@ -98,7 +114,9 @@ This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a s
 
 From your project root run:
 
-`npm install --save-dev eslint-config-airbnb babel-eslint eslint-plugin-react`
+```TXT
+npm install --save-dev eslint-config-airbnb babel-eslint eslint-plugin-react
+```
 
 
 3. Make sure ESLint knows to use the rule set-up/bundle we have just installed via NPM
@@ -115,7 +133,7 @@ Inside of the project directory create a new file called <b>.eslintrc</b>
 
 ## Testing
 
-- To test the project inside the Simulator you can open the inspector mode from within the Simulator menu (CMD + D to show the menu).
+- To test the project inside the Simulator you can open the inspector mode from within the Simulator menu (`CMD + D to show the menu`).
 
 - For web testing/debugging you can go to : `http://localhost:8081/debugger-ui` and open the web inspector.
 
