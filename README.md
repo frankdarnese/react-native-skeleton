@@ -72,13 +72,15 @@ git clone git@github.com:frankdarnese/react-native-skeleton.git
 ## Update folder name && cd into it
 
 Change the repository name according to your new project. Linux and Unix users
-can rename their files and directories by using the <a href="https://www.computerhope.com/unix/umv.htm">mv command</a>.<br>
+can rename their files and directories by using the
+<a href="https://www.computerhope.com/unix/umv.htm">mv command</a>.<br>
 
 ```TXT
 mv react-native-skeleton your_new_project_name && cd your_new_project_name
 ```
 
-<b>Please note:</b> You can also rename the folder at the time you clone it. See example below:
+<b>Please note:</b> You can also rename the folder at the time you clone it.
+See example below:
 
 ```TXT
 git clone git@github.com:frankdarnese/react-native-skeleton.git YOUR_NEW_PROJECT_NAME && cd YOUR_NEW_PROJECT_NAME
@@ -98,7 +100,8 @@ To build and launch the project, run the following command:
 react-native run-ios
 ```
 
-<b>Note</b>: This may take a few minutes before building the app. Once done, this should launch the Simulator and you should see the boilerplate welcome screen.<br>
+<b>Note</b>: This may take a few minutes before building the app. Once done, this
+should launch the Simulator and you should see the boilerplate welcome screen.<br>
 
 - Option 2.<br>
 
@@ -130,11 +133,13 @@ or if you are in the project folder already:
 
 ## Setup ES6 + Babel + JSX Linting with Atom (Optional)
 
-This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a starting point.
+This sets up Atom to properly lint ES6+Babel+JSX using Airbnb's .eslintrc as a
+starting point.
 
 1. In Atom install <b>lint & es-lint</b> packages
 
-2. Install <b>eslint-config-airbnb babel-eslint eslint-plugin-react</b> which are files that contains a set of rules we are going to use during our project
+2. Install <b>eslint-config-airbnb babel-eslint eslint-plugin-react</b> which
+are files that contains a set of rules we are going to use during our project.
 
 From your project root run:
 
@@ -153,13 +158,19 @@ Inside of the project directory create a new file called <b>.eslintrc</b>
   }
 ```
 
-Please check <a href="https://github.com/airbnb/javascript" target="blank">Airbnb's Javascript styleguide</a> and the <a href="http://eslint.org/docs/user-guide/configuring#extending-configuration-files" target="blank">ESlint config docs</a> for more information.
+Please check <a href="https://github.com/airbnb/javascript" target="blank">Airbnb's
+Javascript styleguide</a> and the <a href="http://eslint.org/docs/user-guide/configuring#extending-configuration-files" target="blank">ESlint config docs</a> for more information.
 
 ## Testing
 
-- To test the project inside the Simulator you can open the inspector mode from within the Simulator menu (`CMD + D to show the menu`).
+- To test the project inside the Simulator you can open the inspector mode
+from within the Simulator menu (`CMD + D to show the menu`).
 
-- For web testing/debugging you can go to : `http://localhost:8081/debugger-ui` and open the web inspector.
+- For web testing/debugging you can go to : `http://localhost:8081/debugger-ui`
+and open the web inspector.
 
 - You may also install the <a href="https://github.com/facebook/react-devtools/tree/master/packages/react-devtools">standalone version of React Developer Tools</a> to inspect the React component hierarchy, their props, and state.<br>
-When react-devtools is running, Inspector will enter a special collapsed mode, and instead use the DevTools as primary UI. In this mode, clicking on something in the simulator will bring up the relevant components in the DevTools. Please check the <a href="https://github.com/facebook/react-devtools/tree/master/packages/react-devtools">React Developer Tools</a> on GITHUB for more info.
+When react-devtools is running, Inspector will enter a special collapsed mode,
+and instead use the DevTools as primary UI. In this mode, clicking on something
+in the simulator will bring up the relevant components in the DevTools.
+Please check the <a href="https://github.com/facebook/react-devtools/tree/master/packages/react-devtools">React Developer Tools</a> on GITHUB for more info.
