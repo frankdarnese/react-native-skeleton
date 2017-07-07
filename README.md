@@ -81,8 +81,9 @@ mv react-native-skeleton your_new_project_name && cd your_new_project_name
 <b>Please note:</b> You can also rename the folder at the time you clone it. See example below:
 
 ```TXT
-git clone git@github.com:FDarnese/react-native-skeleton.git <b>your_new_project_name</b>
-cd your_new_project_name
+git clone git@github.com:FDarnese/react-native-skeleton.git YOUR_NEW_PROJECT_NAME
+
+cd YOUR_NEW_PROJECT_NAME
 ```
 
 ## Install NPM
