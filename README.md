@@ -66,7 +66,7 @@ Used to generate new React Native projects
 CD into your 'projects' folder and clone the repo with the git clone command.
 
 ```TXT
-git clone git@github.com:FDarnese/react-native-skeleton.git
+git clone git@github.com:frankdarnese/react-native-skeleton.git
 ```
 
 ## Update folder name && cd into it
@@ -81,7 +81,7 @@ mv react-native-skeleton your_new_project_name && cd your_new_project_name
 <b>Please note:</b> You can also rename the folder at the time you clone it. See example below:
 
 ```TXT
-git clone git@github.com:FDarnese/react-native-skeleton.git YOUR_NEW_PROJECT_NAME
+git clone git@github.com:frankdarnese/react-native-skeleton.git YOUR_NEW_PROJECT_NAME
 
 cd YOUR_NEW_PROJECT_NAME
 ```
