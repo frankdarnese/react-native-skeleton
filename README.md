@@ -122,9 +122,7 @@ e.g. If you are using atom:
 ```TXT
   atom react-native-skeleton
 ```
-or if you are in the project folder already
-
-e.g. If you are using atom:
+or if you are in the project folder already:
 
 ```TXT
   atom .
