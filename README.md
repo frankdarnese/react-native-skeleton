@@ -78,6 +78,13 @@ can rename their files and directories by using the <a href="https://www.compute
 mv react-native-skeleton your_new_project_name && cd your_new_project_name
 ```
 
+<b>Please note:</b> You can also rename the folder at the time you clone it. See example below:
+
+```TXT
+git clone git@github.com:FDarnese/react-native-skeleton.git <b>your_new_project_name</b>
+cd your_new_project_name
+```
+
 ## Install NPM
 
 Run `npm install` within the project folder
@@ -115,6 +122,13 @@ e.g. If you are using atom:
 
 ```TXT
   atom react-native-skeleton
+```
+or if you are in the project folder already
+
+e.g. If you are using atom:
+
+```TXT
+  atom .
 ```
 
 ## Setup ES6 + Babel + JSX Linting with Atom (Optional)

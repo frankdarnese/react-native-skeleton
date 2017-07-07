@@ -19,7 +19,10 @@ export default class react_native_skeleton extends Component {
         <Image source={require('./app/assets/images/react-native-logo.png')}
         style={{width: 200, height: 200}} />
         <Text style={styles.welcome}>
-          Welcome to React Native Skeleton!
+          Welcome to
+        </Text>
+        <Text style={styles.title}>
+          React Native Skeleton!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
@@ -41,9 +44,14 @@ const styles = StyleSheet.create({
     backgroundColor: '#61dafb',
   },
   welcome: {
-    fontSize: 20,
+    fontSize: 24,
     textAlign: 'center',
-    margin: 10,
+    margin: 0,
+  },
+  title: {
+    fontSize: 24,
+    textAlign: 'center',
+    marginBottom: 10,
   },
   instructions: {
     textAlign: 'center',
